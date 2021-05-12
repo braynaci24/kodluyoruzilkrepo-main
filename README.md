@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 # Installation
 
-[](https://github.com/braynaci24/kodluyoruzilkrepo)
+[git clone](https://github.com/braynaci24/kodluyoruzilkrepo)
 
 # Usage 
 
